@@ -1,1 +1,1 @@
-Write a script that counts the number of directories and sub-directories in the current directory
+Write a shell script that creates a file containing the text Best School ending by a new line
