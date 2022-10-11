@@ -1,1 +1,1 @@
-Write a shell script that creates a file containing the text Best School ending by a new line
+Create a script that displays the 10 newest files in the current directory
