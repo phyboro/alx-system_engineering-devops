@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+# connects to a server using ssh
+ssh -i ~/.ssh/school 6fde4107b703.c567ebef.alx-cod.online
